@@ -1,15 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './skins/style.css';
 import img1 from './images/img-banner.jpg';
+import Header from './Header';
+import Footer from './Footer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <a href="/"><img className="logo-header" src={logo} alt=''></img></a>
-        <div className="Title-logo"><h1>Header</h1></div>
-      </header>
+      <Header />
       <main className="App-main">
         <div className="container">
           <div className="row">
@@ -24,9 +22,7 @@ function App() {
           </div>
         </div>
       </main>
-      <footer className="App-footer">
-        <h2 className="text-center">Rất là bướng</h2>
-      </footer>
+      <Footer />
     </div>
   );
 }
