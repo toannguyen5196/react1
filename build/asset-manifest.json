@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/toannguyen5196/react1.github.io/static/css/main.5861c755.chunk.css",
+    "main.js": "/toannguyen5196/react1.github.io/static/js/main.6c1888cb.chunk.js",
+    "main.js.map": "/toannguyen5196/react1.github.io/static/js/main.6c1888cb.chunk.js.map",
+    "runtime-main.js": "/toannguyen5196/react1.github.io/static/js/runtime-main.2a19abfe.js",
+    "runtime-main.js.map": "/toannguyen5196/react1.github.io/static/js/runtime-main.2a19abfe.js.map",
+    "static/js/2.3493b5f9.chunk.js": "/toannguyen5196/react1.github.io/static/js/2.3493b5f9.chunk.js",
+    "static/js/2.3493b5f9.chunk.js.map": "/toannguyen5196/react1.github.io/static/js/2.3493b5f9.chunk.js.map",
+    "index.html": "/toannguyen5196/react1.github.io/index.html",
+    "precache-manifest.2fbe533d0f39a94eac4c08095eb8b1c5.js": "/toannguyen5196/react1.github.io/precache-manifest.2fbe533d0f39a94eac4c08095eb8b1c5.js",
+    "service-worker.js": "/toannguyen5196/react1.github.io/service-worker.js",
+    "static/css/main.5861c755.chunk.css.map": "/toannguyen5196/react1.github.io/static/css/main.5861c755.chunk.css.map",
+    "static/media/img-banner.jpg": "/toannguyen5196/react1.github.io/static/media/img-banner.bd8808cc.jpg",
+    "static/media/logo.svg": "/toannguyen5196/react1.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a19abfe.js",
+    "static/js/2.3493b5f9.chunk.js",
+    "static/css/main.5861c755.chunk.css",
+    "static/js/main.6c1888cb.chunk.js"
+  ]
+}
