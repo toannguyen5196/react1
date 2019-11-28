@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://toannguyen5196.github.io/react1/",
   "dependencies": {
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^4.4.0",
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
     "react-bootstrap": "^1.0.0-beta.16",

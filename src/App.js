@@ -11,13 +11,16 @@ function App() {
       <main className="App-main">
         <div className="container">
           <div className="row">
-            <div className="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+            <div className="col-xs-12 col-sm-6 col-md-3 col-lg-3">
               <img src={img1} alt=''></img>
             </div>
-            <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
+            <div className="col-xs-5 col-sm-5 col-md-5 col-lg-5">
               <div className="img-tin">
                 <a href="/"><img src={require('./images/logo.png')} alt=''></img></a>
               </div>
+            </div>
+            <div className="col-xs-12 col-sm-12 co">
+                <h1>Rất là bớng adjlks</h1>
             </div>
           </div>
         </div>
